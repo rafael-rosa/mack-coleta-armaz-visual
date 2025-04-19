@@ -23,3 +23,7 @@ Login base de dados (jdbc:postgresql://localhost:5432/postgres): postgres/1234
 2. Executar a DAG "dag_proj_hist_btc" no Airflow
 3. Criar o Dashboard no Grafana importando o arquivo "dashboard_grafana.json"
 4. Criar o alerta de cotacao do Dolar no Grafana importando o arquivo "alerta_dolar_grafana.yaml"
+
+### 🏗️ Arquitetura da solução
+
+![Image](https://github.com/user-attachments/assets/dce0f5b8-cf7e-439c-96cb-6eb5574849df)
